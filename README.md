@@ -107,6 +107,7 @@ Designed and implemented a scalable end-to-end data pipeline integrating on-prem
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](https://github.com/AKAMUNDRA/Pizza_Sales_Analysis.F/blob/main/Pizza%20Sales.png)
+![Dashboard Preview]()
 
 
 
